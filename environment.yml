@@ -1,0 +1,13 @@
+name: sandbox-llamaindex
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - python-dotenv
+    - llama-index-core
+    - llama-index-llms-openai
+    - llama-index-readers-file
+    - llama-index-embeddings-openai
