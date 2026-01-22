@@ -5,7 +5,7 @@
   [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-purple.svg)](https://www.llamaindex.ai/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **A sandbox for experimenting with LlamaIndex RAG (Retrieval-Augmented Generation) pipelines**
+  **🦙 A sandbox for experimenting with LlamaIndex RAG (Retrieval-Augmented Generation) pipelines 🔍**
 
   [LlamaIndex Docs](https://docs.llamaindex.ai/) · [OpenAI API](https://platform.openai.com/)
 </div>
