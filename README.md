@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-llamaindex" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-llamaindex/main/logo.png" alt="sandbox-llamaindex" width="512"/>
 
   [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
   [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-purple.svg)](https://www.llamaindex.ai/)
