@@ -1,17 +1,19 @@
-> [!NOTE]
-> This repository exists only for experimentation and is currently archived.
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-llamaindex/main/logo.png" alt="sandbox-llamaindex" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🦙 A sandbox for experimenting with LlamaIndex RAG (Retrieval-Augmented Generation) pipelines 🔍</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
   [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-purple.svg)](https://www.llamaindex.ai/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **🦙 A sandbox for experimenting with LlamaIndex RAG (Retrieval-Augmented Generation) pipelines 🔍**
-
   [LlamaIndex Docs](https://docs.llamaindex.ai/) · [OpenAI API](https://platform.openai.com/)
-</div>
+
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
 
 ## Overview
 
